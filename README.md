@@ -1,0 +1,2 @@
+# linear_programming_exploring_solutions
+Exploring solutions using multiples technologies for linear programming
